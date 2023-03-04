@@ -2,12 +2,12 @@
  Covid-19-Project
 
 
- To acces the website : http://coviprovision.000webhostapp.com/
- Demo video link : https://www.youtube.com/watch?v=xG5j_zgaYJc
+ To acces the website : http://coviprovision.000webhostapp.com/ <br>
+ Demo video link : https://www.youtube.com/watch?v=xG5j_zgaYJc<br>
 I developed a website which shows covid-19 impact on various groups and solution related to analysis on basis of quiz model &amp; other necessary info regarding the analysis!
-
+<br>
 Problem statement: COVID -19 IMPACTS ON VARIOUS AGE GROUPS ,SEX AND PEOPLES WITH CERTAIN DISESASES: RISK EVALUATION FROM THE EXISTING DATA![image](https://user-images.githubusercontent.com/126934403/222882616-089beb93-1b59-4e51-93d0-b3d727af7d9d.png)
-
+<br>
 About this project : 
 In conclusion, the COVID-19 pandemic has been a challenging time for everyone, but we must remember that we are all in this together. The virus is caused by the SARS-CoV-2 virus, which can cause respiratory tract infections ranging from mild to severe, and can be transmitted through person-to-person contact. It is important to be aware of the symptoms and take precautions to prevent its spread.
 
