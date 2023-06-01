@@ -4,7 +4,7 @@
  
  To acces the website : http://coviprovision.000webhostapp.com/ <br>
  Demo video link : https://www.youtube.com/watch?v=xG5j_zgaYJc<br>
-I developed a website which shows covid-19 impact on various groups and solution related to analysis on basis of quiz model &amp; other necessary info regarding the analysis!
+I developed a website which shows covid-19 impact on various groups and solution related to analysis on basis of quiz model &amp; other necessary info regarding the analysis! 
 <br>
 Problem statement: COVID -19 IMPACTS ON VARIOUS AGE GROUPS ,SEX AND PEOPLES WITH CERTAIN DISESASES: RISK EVALUATION FROM THE EXISTING DATA![image](https://user-images.githubusercontent.com/126934403/222882616-089beb93-1b59-4e51-93d0-b3d727af7d9d.png)
 <br>
