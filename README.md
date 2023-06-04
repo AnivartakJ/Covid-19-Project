@@ -9,7 +9,7 @@ I developed a website which shows covid-19 impact on various groups and solution
 Problem statement: COVID -19 IMPACTS ON VARIOUS AGE GROUPS ,SEX AND PEOPLES WITH CERTAIN DISESASES: RISK EVALUATION FROM THE EXISTING DATA![image](https://user-images.githubusercontent.com/126934403/222882616-089beb93-1b59-4e51-93d0-b3d727af7d9d.png)
 <br>
 About this project :   
-In conclusion, the COVID-19 pandemic has been a challenging time for everyone, but we must remember that we are all in this together. The virus is caused by the SARS-CoV-2 virus, which can cause respiratory tract infections ranging from mild to severe, and can be transmitted through person-to-person contact. It is important to be aware of the symptoms and take precautions to prevent its spread.
+In conclusion, the COVID-19 pandemic has been a challenging time for everyone, but we must remember that we are all in this together. The virus is caused by the SARS-CoV-2 virus, which can cause respiratory tract infections ranging from mild to severe, and can be transmitted through person-to-person contact. It is important to be aware of the symptoms and take precautions to prevent its spread. 
 
 Our website has focused on a research study by the ISARIC multinational observational study that examines the variation of COVID-19 symptoms based on age and sex. This study is important in providing a more general understanding of COVID-19 symptoms, which can be useful for medical staff in making diagnoses and predictions related to the disease.
 
