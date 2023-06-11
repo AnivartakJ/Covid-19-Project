@@ -1,7 +1,7 @@
 #![image](https://user-images.githubusercontent.com/126934403/222883431-28685cb0-3d0f-48ee-8791-0c3aab447db1.png)
  Covid-19-Project
 
- 
+  
  To acces the website : http://coviprovision.000webhostapp.com/ <br>
  Demo video link : https://www.youtube.com/watch?v=xG5j_zgaYJc<br>
 I developed a website which shows covid-19 impact on various groups and solution related to analysis on basis of quiz model &amp; other necessary info regarding the analysis! 
